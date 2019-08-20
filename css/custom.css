@@ -1,0 +1,11 @@
+.cstom_edit:focus {
+    border-bottom: 4px solid rgb(66, 90, 245);
+}
+
+.cstom_edit_01 {
+    background-color: rgb(214, 213, 213) !important;
+}
+
+.alert {
+    margin-top: 1rem;
+}
