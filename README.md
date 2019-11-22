@@ -4,4 +4,4 @@ Find registered people details such as profile, website, company, github repos, 
 
 - Just type correct github username.
 
-[Live Demo](https://rssrar.github.io/github-people/)
+[Live Demo](https://golamrabbiazad.github.io/github-people/)
